@@ -1,3 +1,17 @@
 ds-test/=lib/forge-std/lib/ds-test/src/
 forge-std/=lib/forge-std/src/
 src/=src/
+
+erc4626-tests/=lib/v5-vault/lib/erc4626-tests/
+openzeppelin-contracts/=lib/openzeppelin-contracts/
+openzeppelin/=lib/v5-vault/lib/openzeppelin-contracts/contracts/
+owner-manager-contracts/=lib/v5-vault/lib/owner-manager-contracts/contracts/
+prb-math/=lib/v5-vault/lib/v5-vrgda-claimer/lib/prb-math/src/
+solmate/=lib/v5-vault/lib/v5-liquidator/lib/solmate/src/
+v4-core/=lib/v5-vault/lib/v5-prize-pool/lib/v5-twab-controller/lib/v4-core/contracts/
+v5-liquidator/=lib/v5-vault/lib/v5-liquidator/src/
+v5-prize-pool-test/=lib/v5-vault/lib/v5-prize-pool/test/
+v5-prize-pool/=lib/v5-vault/lib/v5-prize-pool/src/
+v5-twab-controller/=lib/v5-vault/lib/v5-twab-controller/src/
+v5-vault/=lib/v5-vault/src/
+v5-vrgda-claimer/=lib/v5-vault/lib/v5-vrgda-claimer/src/
