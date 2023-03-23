@@ -1,0 +1,1 @@
+forge create --private-key $PRIVATE_KEY --rpc-url $GOERLI_RPC_URL UserFaker

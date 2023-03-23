@@ -1,3 +1,20 @@
+# User Faker
+
+Creates accounts for PoolTogether V5 vaults in batches.
+
+[Deployed on Goerli](https://goerli.etherscan.io/address/0xcaf376aef49dca009afe52e203d0c7a08cb716a5)
+
+## Usage
+
+Call `setFakeUsers(vault, count, tokenFaucet)` where `count` is the desired number of fake users.
+
+Note: gas limits account creation to about 50 per transaction. So to create 200 accounts, you'd need to run 4 transactions:
+
+`setFakeUsers(vault, 50, tokenFaucet)`
+`setFakeUsers(vault, 100, tokenFaucet)`
+`setFakeUsers(vault, 150, tokenFaucet)`
+`setFakeUsers(vault, 200, tokenFaucet)`
+
 # Foundry template
 
 Template to kickstart a Foundry project.

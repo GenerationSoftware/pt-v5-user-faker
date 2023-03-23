@@ -1,0 +1,1 @@
+forge verify-contract --chain-id 5 --verifier etherscan 0xcaf376aeF49DCa009AFE52e203d0C7A08cb716a5 UserFaker
