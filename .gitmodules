@@ -6,3 +6,6 @@
 	path = lib/openzeppelin-contracts
 	url = https://github.com/openZeppelin/openzeppelin-contracts
 	branch = v4.8.2
+[submodule "lib/v5-vault"]
+	path = lib/v5-vault
+	url = https://github.com/pooltogether/v5-vault
