@@ -25,6 +25,12 @@ contract UserFaker {
     fakeUserBytecode = MinimalProxyLibrary.minimalProxy(address(fakeUserInstance));
   }
 
+  function batchSetFakeUsers(Vault[] memory _vaults, uint256 _count, ITokenFaucet _tokenFaucet) public {
+    for (uint i = 0; i < _vaults.length; i++) {
+      setFakeUsers(_vaults[i], _count, _tokenFaucet);
+    }
+  }
+
   function setFakeUsers(Vault _vault, uint256 _count, ITokenFaucet _tokenFaucet) public {
     uint currentCount = vaultFakeUserCount[_vault];
     if (_count < currentCount) {

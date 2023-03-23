@@ -2,7 +2,7 @@
 
 Creates accounts for PoolTogether V5 vaults in batches.
 
-[Deployed on Goerli](https://goerli.etherscan.io/address/0xcaf376aef49dca009afe52e203d0c7a08cb716a5)
+[Deployed on Goerli](https://goerli.etherscan.io/address/0x4b1fb48851a2747c324a4f6f77c09ccdf4b15609)
 
 ## Usage
 
