@@ -1,0 +1,1 @@
+forge create --private-key $PRIVATE_KEY --rpc-url $SEPOLIA_RPC_URL UserFaker
