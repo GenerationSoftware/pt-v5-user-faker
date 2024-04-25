@@ -10,5 +10,6 @@ out/
 
 .DS_Store
 .envrc
+.env
 node_modules
 .history
