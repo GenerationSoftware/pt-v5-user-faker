@@ -10,6 +10,7 @@ Creates accounts for PoolTogether V5 vaults in batches.
 - [Sepolia](https://sepolia.etherscan.io/address/0xb02BB09C774a1eccA01259F68373894f6eFE7164)
 - [Scroll Sepolia](https://sepolia.scrollscan.com/address/0x8fa41112e3f3982c20a20378c8ca77bfa0ecc2a6)
 - [Gnosis Chiado](https://gnosis-chiado.blockscout.com/address/0x7e1Acab9273AFE96571B6C59DB669a1B7B914b40)
+- [Worldchain Sepolia](https://worldchain-sepolia.explorer.alchemy.com/address/0x4b9B0cC30eF739dbAa44457f36BBad8747Ad5629)
 
 ## Usage
 
